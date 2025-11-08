@@ -1,4 +1,4 @@
-# Registration-Form
+# Registration_Form
 This is a simple PHP + MySQL based Student Registration System with a clean interface. The project allows users to register students, confirm successful registration, and view all registered students.
 # Student Registration System
 
